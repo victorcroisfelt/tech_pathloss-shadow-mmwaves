@@ -2,7 +2,7 @@
 
 This repository includes the PDF of the following technical report:
 
-Victor Croisfelt Rodrigues and Taufik Abrão "SA Study of Pathloss and Shadow Fading Models for mmWaves", Technical Report, February, 2020.
+Victor Croisfelt Rodrigues and Taufik Abrão "A Study of Pathloss and Shadow Fading Models for mmWaves", Technical Report, February, 2020.
 
 **Code:** This repository also has a research-oriented code package, located in the "matlab" folder, which allows readers to replicate the results (Figs. 1, 2a, and 2b) of the technical report. 
 
