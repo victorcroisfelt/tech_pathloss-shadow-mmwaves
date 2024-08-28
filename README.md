@@ -17,8 +17,13 @@ The possibility to use the available spectrum at the millimeter wave (mmWave) ra
 This code is subject to the MIT license. If you use any part of this repository for research, please consider citing our aforementioned work.
 
 @misc{croisfelt2020,
+
       title={A Study of Pathloss and Shadow Fading Models for mmWaves}, 
+      
       author={Victor Croisfelt and Taufik Abr\~{a}o},
+      
       year={2020},
+      
       url={https://github.com/victorcroisfelt/tech_pathloss-shadow-mmwaves} 
+      
 }
